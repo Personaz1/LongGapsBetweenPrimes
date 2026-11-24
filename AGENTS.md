@@ -1,0 +1,1 @@
+Formalization workspace. Pin Lean/mathlib and record exact commit. Distinguish kernel-checked theorem from faithful formalization of intended published statement. Preserve source references and dependencies. Do not claim formal verification unless build succeeds at recorded commit.
