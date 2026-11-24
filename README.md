@@ -36,3 +36,10 @@ Install `landrun`, `lean4export`, and `nanoda_bin`, and make them available on
 lake exe cache get
 lake exe comparator comparator.json
 ```
+
+
+## Fork context
+
+This repository is a fork of [OpenAI/LongGapsBetweenPrimes](https://github.com/openai/LongGapsBetweenPrimes). It is a Lean formalization workspace for an existing published result, not a claim that this fork independently discovered or proved a new theorem. Preserve the upstream attribution and Apache-2.0 licensing terms when redistributing changes.
+
+For mathematical claims, consult the original paper and verify the formalization at the exact commit and toolchain used. A successful Lean build checks the encoded statements; it does not by itself establish that the formalization matches every intended statement in the paper.
